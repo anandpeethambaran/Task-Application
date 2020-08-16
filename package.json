@@ -1,0 +1,22 @@
+{
+  "name": "task-application",
+  "version": "1.0.0",
+  "description": "Node js Task application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandtp00/Task-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandtp00/Task-Application/issues"
+  },
+  "homepage": "https://github.com/anandtp00/Task-Application#readme",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
